@@ -33,6 +33,12 @@ Each day has two parts:
 `days/day01.md` and `practice/day01_hello.py` are a worked example — copy that
 pattern.
 
+### 📖 Reference solutions
+
+`solutions/` holds a **reference answer for each coding day**, to check your own
+work against *after* you have attempted it. Read `solutions/README.md` first —
+it explains how to use them without cheating yourself out of the learning.
+
 ---
 
 ## The 30-day plan
